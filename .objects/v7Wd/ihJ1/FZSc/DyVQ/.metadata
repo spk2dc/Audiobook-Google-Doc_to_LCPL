@@ -1,0 +1,16 @@
+﻿{
+  "Name": "logged in",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "DyVQwwsKfUCQCmCz_fw5cw",
+  "Reference": "QTP4dcq1wUiaYqQo5eiahQ/DyVQwwsKfUCQCmCz_fw5cw",
+  "ParentRef": "QTP4dcq1wUiaYqQo5eiahQ/FZScssIUZE-QVSqI_TFs_w",
+  "Created": "2023-11-23T18:19:51.870167Z",
+  "Updated": "2023-11-23T18:21:37.6319307Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KpYnTgC0G0WXkXf5_KzTlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://catalog.library.loudoun.gov/responsive?section=sap" DesignTimeRectangle="63, 621, 875, 43" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'INPUT title'" FullSelectorArgument="&lt;webctrl tag='INPUT' name='title' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' name='title' /&gt;" Guid="4993a246-7a15-4e1e-9687-234a41aece90" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Loudoun County Public Library - CARL•Connect Discovery' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="63, 587, 55, 28" ElementType="Text" FriendlyName="'Title'" FullSelectorArgument="&lt;webctrl tag='LABEL' innertext='Title' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' innertext='Title' check:text='Title' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADsAAAAgCAYAAACsNADrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAALZSURBVFhH7ZdLaxNRFID9HXkn1baUVonEpFBLTXGhYoNtNangI4qIURK1TfFBFS20hhSjsQX7EFKJsZq0ttFAm+Jr6Upx4VJw4VpcieDieM7FucwMk5i0nZJOs/hI5pxzM/PNPffOZIvJaoPNQlVWq1RltQqX3WG3w0zyEbxfflkyy7k5iAzf4sc0nn5HfIJCDA3e4OOmHsYVa8qh3WKF73o9LBiNUKeQJ1SXtW3dBuHeEJzyH5fE11p2D8p+Q9kJlDUr5AlVZT2eDpidmWa584GzPE6shawNBe8ZTTBkMoEbv39E2Sget+H35yjtNVsk9UXXbGtbK+RePOMXJb/gYshvnhqyTqsVvqAg6HTwC/mD/NDp2SfFJlGYbohQv6FlqV23I504g2mDkUvfxpneizH52l21LMWEvNDG4pgcQayYrMVWA/6TxyCdSsDbfJbVLGbTEI9F2DVJapGQyQw/UfKzwcA2qU8IrWFxHVFxsrX19RC/G4F3/yTlLL3KgM93hNcfxRn8jaJfUZB25DCKUxt/QHG7TFgVWYqvtI37+y5x0Tnc3PYf2Md29GtXwvBmaYHFadNzNTezemrlC2YzBFGSjql1H+BaXbeZpfhKZMVjXi/Ow2n/CV5PrT0WH2E5uhm9l4M8VyoVJdvhOcjalGJ0Xvn6DPde5GNG70cluVKoKFmf9zB7dgvxYiQTE9DQ2CT5zf+xYWXF5yqVipLt7u6CfG6WxZTaeLWsm2woGJCMU5Ld6XBA5mmCxeQbVENTI6QeT7JcxW1QBEkIudjIMNTU1oHDuYvtrEqyxMD1fv7oyWaeQGfXIfbo6cM/E8KjZz6dhJbdLXxMqagqe3PgKs/JawrJ0kvF+GhMMkZMHnfrnh4vry8HVWWp9aJ3BtkFUp5mJjU9BU6Xq6AsQTMZOHeGvS4Ks0ltPT4WA3e7W1JbDkVltUZVVqtUZbVKVVarVGW1yiaStcFf9MOsOrUEKzUAAAAASUVORK5CYII=" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c0af6eacf37aa84fc442247fd2acc2a6.png" xmlns="">0KAU7Sx2mD0CipBT3uRjksA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

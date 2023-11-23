@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zps6V6oXSU2xH5WdnCMcUg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://catalog.library.loudoun.gov/responsive?section=sap" DesignTimeRectangle="614, 285, 711, 29" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'Log in'" FullSelectorArgument="&lt;webctrl tag='H4' innertext='Log in with either your Library Card Number or EZ Login' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H4' innertext='Log in with either your Library Card Number or EZ Login' check:text='Log in with either your Library Card Number or EZ Login' /&gt;" Guid="742df657-e41e-40e7-9bb9-9f38c6da5a53" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Loudoun County Public Library - CARL•Connect Discovery' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="614, 202, 711, 32" ElementType="Text" FriendlyName="'Log in to your Account'" FullSelectorArgument="&lt;webctrl tag='H4' innertext='Log in to your Account' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H4' innertext='Log in to your Account' check:text='Log in to your Account' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="652de7035e1385c874d8e527ac5038d7.png" xmlns="">08aD9-altjkW9bOgzEEuvyQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
