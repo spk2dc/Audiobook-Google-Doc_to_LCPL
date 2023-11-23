@@ -234,7 +234,7 @@
                         <OutArgument x:TypeArguments="x:String">[title]</OutArgument>
                       </Assign.To>
                       <Assign.Value>
-                        <InArgument x:TypeArguments="x:String">[list(0).Split(" by.")(0)]</InArgument>
+                        <InArgument x:TypeArguments="x:String">[currentItem.Split(" by.")(0)]</InArgument>
                       </Assign.Value>
                     </Assign>
                     <Assign sap:VirtualizedContainerService.HintSize="433.6,82.4" sap2010:WorkflowViewState.IdRef="Assign_6">
@@ -242,7 +242,7 @@
                         <OutArgument x:TypeArguments="x:String">[author]</OutArgument>
                       </Assign.To>
                       <Assign.Value>
-                        <InArgument x:TypeArguments="x:String">[list(0).Split(" by.")(1).Split(" - ")(0)]</InArgument>
+                        <InArgument x:TypeArguments="x:String">[currentItem.Split(" by.")(1).Split(" - ")(0)]</InArgument>
                       </Assign.Value>
                     </Assign>
                     <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'title'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="433.6,218.4" sap2010:WorkflowViewState.IdRef="NTypeInto_25" ScopeIdentifier="46b0a16f-10eb-43ee-b10d-6bb2e5920522" Text="[title]" Version="V3">
