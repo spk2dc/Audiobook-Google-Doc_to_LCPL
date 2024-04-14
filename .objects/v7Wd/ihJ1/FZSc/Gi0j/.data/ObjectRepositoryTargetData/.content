@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bl8RKHlGoEaHKxF3wojoow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://catalog.library.loudoun.gov/responsive?section=sap" DesignTimeRectangle="614, 631, 711, 42" DesignTimeScaleFactor="1.25" ElementType="Button" FriendlyName="'Log In'" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary btn-block ls2pac-color center auto-spin auto-disable sign-in-btn' aaname=' Log In ' check:innerText='Log In' /&gt;" Guid="937db8e1-43ba-4544-b162-1ef6e6376e57" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Loudoun County Public Library - CARL•Connect Discovery' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="945, 641, 49, 20" ElementType="Text" FriendlyName="'Log In'" FullSelectorArgument="&lt;webctrl parentid='sign-in-form' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='sign-in-form' tag='SPAN' type='' class='span-text' aaname='Log In' check:innerText='Log In' /&gt;" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b32097845fa3644a554b23a4e607d86c.png" xmlns="">0GqVcwWNaR0yfU3fn4sk1Ww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
